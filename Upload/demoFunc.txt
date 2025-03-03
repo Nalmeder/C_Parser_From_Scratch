@@ -8,7 +8,7 @@ int func1()
 	apple = apple + 3; 
 	func2();
 } 
-int fuck3() 
+int func3() 
 { 
 	apple = apple * 3; 
 } 
